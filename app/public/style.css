@@ -1,0 +1,15 @@
+
+.my-select {
+	display: block!important;
+}
+
+#mod-content{
+	padding:20px;
+}
+
+#best-match{
+	color:#aaa;
+}
+.match-image {
+	max-height: 200px;
+}
