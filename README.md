@@ -1,1 +1,1 @@
-# FriendFinder
+A full-stack compatibility-based friend finder application site. It takes in results users' surveys and compares their answers with those from other users. The app then displays the name and picture of the user with the best overall match. Technologies used: HTML, CSS, JavaScript, node js, Express (for routing).
